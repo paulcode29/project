@@ -1,0 +1,1 @@
+Download input data file from https://www.kaggle.com/cdminix/us-drought-meteorological-data
